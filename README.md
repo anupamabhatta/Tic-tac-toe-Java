@@ -1,4 +1,3 @@
-
 # **Tic-Tac-Toe**
 
 ## **Description**
@@ -14,15 +13,18 @@ This repository contains a Java implementation of the classic Tic-Tac-Toe game. 
 
 ## **Getting Started**
 
-To play the game:
+### Prerequisites
+
+- **Java** installed on your system.
+- An IDE like **NetBeans** for running the project.
+
+### Steps to Use
 
 1. Clone or download the repository to your local machine.
 2. Open the project in your preferred IDE (e.g., **NetBeans**).
 3. The game code is located in the **`src/`** folder.
 4. The **`lib/AlgorithmLibrary/`** folder contains the algorithm library used in the game, and the **`TicTacToeAlgorithm.jar`** file is an executable JAR for the game logic.
 5. Compile and run the Java files to start the game.
-
-Simply open the project in your IDE and run the game.
 
 ## **Technologies Used**
 
