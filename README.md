@@ -1,5 +1,5 @@
 
-# **Tic-Tac-Toe in Java**
+# **Tic-Tac-Toe**
 
 ## **Description**
 
